@@ -1,0 +1,7 @@
+// 1.20.1	2026-05-13T10:02:38.2481887	Block States: examplemod
+d166134bf6e6a570417281770affe820a7da4899 assets/examplemod/blockstates/landmine.json
+012097981028a86039281f7d19328a57a6470851 assets/examplemod/blockstates/testblock.json
+70e5056532065e90c62152e80ccd1c4598c34ab9 assets/examplemod/models/block/landmine.json
+af5f82b8b879ed61bdfa7b90294333c1d739f8ea assets/examplemod/models/block/testblock.json
+8204eea6ea63899b432a66d9eda05e584ec8ade4 assets/examplemod/models/item/landmine.json
+82832e6675a03d365a91caaaec9a2c54a67f1a8e assets/examplemod/models/item/testblock.json

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients" : [
+    {
+      "item": "examplemod:testblock"
+
+    }
+  ],
+  "result": {
+    "item": "examplemod:itemtest",
+    "count": 9
+
+  }
+
+
+}

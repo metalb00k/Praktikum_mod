@@ -1,0 +1,19 @@
+{
+  "item.examplemod.itemtest": "Test Item",
+  "item.examplemod.sword": "sword" ,
+  "block.examplemod.testblock": "testblock",
+  "creativetab._Projekt": "Projekt Mod",
+  "item.examplemod.metaldetector": "metal detector",
+  "item.examplemod.pickaxe": "pickaxe ",
+  "item.examplemod.axe": "axe ",
+  "item.examplemod.boots" : "boots",
+  "item.examplemod.helmet" : "helmet",
+  "item.examplemod.leggings" : "leggings",
+  "item.examplemod.chestplate" : "chestplate",
+  "item.examplemod.testentity_spawn_egg" : "testentity spawn egg",
+"item.examplemod.proteintubes" : "soup",
+  "block.examplemod.landmine" : "landmine",
+  "block.examplemod.testore" : "test ore",
+  "item.examplemod.shovel" : "shovel",
+  "item.examplemod.hoe" : "hoe"
+}

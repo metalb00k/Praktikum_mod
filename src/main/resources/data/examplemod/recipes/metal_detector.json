@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "  X",
+    "RX ",
+    "S  "
+  ],
+  "key" : {
+    "X": {
+      "item": "minecraft:iron_bars"
+    },
+    "R": {
+      "item": "minecraft:comparator"
+      },
+      "S" : {
+        "item": "minecraft:calibrated_sculk_sensor"
+
+    }
+  },
+  "result": {
+    "item": "examplemod:metaldetector"
+  }}

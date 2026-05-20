@@ -1,0 +1,8 @@
+{
+  "values": [
+    "examplemod:testblock",
+    "examplemod:testore",
+    "#forge:ores"
+
+  ]
+}

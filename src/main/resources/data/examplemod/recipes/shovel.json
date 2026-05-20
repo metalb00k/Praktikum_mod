@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    " # ",
+    " I ",
+    " I "
+  ],
+  "key" : {
+    "#": {
+      "item": "examplemod:itemtest"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "examplemod:shovel"
+  }}
