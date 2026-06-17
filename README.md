@@ -1,3 +1,2 @@
 Praktikumsprojekt
-benötigt Geckolib4 und Forge
-Minecraft Version 1.20.1
+benötigt Geckolib4 und Forge 1.20.1
